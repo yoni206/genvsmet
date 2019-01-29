@@ -1,1 +1,0 @@
-F ( ( ( ( ( true ) & ( $formulaVariable1 -> $formulaVariable2 ) ) -> ( ( true ) -> ( $formulaVariable1 & $formulaVariable1 ) ) ) | $formulaVariable0 ) -> $formulaVariable1 )

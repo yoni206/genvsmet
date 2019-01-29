@@ -1,1 +1,0 @@
-U ( ( $formulaVariable0 | ( ( ! ( ! ( true ) ) ) -> ( ! ( ! ( false ) ) ) ) ) -> ( ( false ) & ( ( ( ( ( ! ( false ) ) -> ( false ) ) -> ( ( false ) | ( ( ( true ) -> ( ! ( ! $formulaVariable2 ) ) ) | ( ( false ) & ( ( ( false ) & ( false ) ) | ( true ) ) ) ) ) ) -> ( true ) ) -> ( ( false ) -> ( ! ( ! ( ( true ) -> ( false ) ) ) ) ) ) ) )

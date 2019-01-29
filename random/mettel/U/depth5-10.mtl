@@ -1,1 +1,0 @@
-U ( $formulaVariable1 -> ( ( ! ( ( $formulaVariable4 | ( false ) ) | ( $formulaVariable4 & ( true ) ) ) ) -> ( $formulaVariable0 | ( true ) ) ) )

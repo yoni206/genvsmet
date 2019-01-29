@@ -1,1 +1,0 @@
-F ( $formulaVariable1 | ( ( ( ( ( true ) -> ( false ) ) & $formulaVariable0 ) -> ( false ) ) -> ( true ) ) )
